@@ -177,16 +177,9 @@ Open **EDA_CASE_STUDY.ipynb** and run the cells sequentially.
 ---
 
 # 📸 Project Preview
-
-Add screenshots from your notebook here.
-
-Suggested screenshots:
-
-* Correlation Heatmap
-* Commodity Price Trends
-* Pair Plot
-* Distribution Plot
-* Box Plot
+<img width="1307" height="658" alt="Screenshot 2026-06-27 002512" src="https://github.com/user-attachments/assets/ff40deb0-fdfb-4611-8c1d-aa2de8deee18" />
+<img width="1348" height="625" alt="Screenshot 2026-06-27 002538" src="https://github.com/user-attachments/assets/2300ce2c-04d2-453e-8981-6f2e3f55f270" />
+<img width="780" height="676" alt="Screenshot 2026-06-27 002604" src="https://github.com/user-attachments/assets/f6853688-83ec-4154-94cc-547732c61347" />
 
 ---
 
